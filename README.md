@@ -1,1 +1,1 @@
-# Weather-App
+A simple and intuitive weather app that provides accurate, real-time weather updates. With detailed forecasts, temperature, humidity, and precipitation information, this app helps you stay prepared for any weather conditions
